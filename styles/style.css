@@ -103,13 +103,13 @@ position: relative;
     margin: auto;
     margin-top: 30px;
     display: block;
-    width: 25%;
+    width: 32%;
     height: 30px;
     padding: 8px;
     border-radius: 50px;
     border-style: solid;
     border-color: rgb(219, 219, 219, 0.7);
-    padding-left: 40px;
+    padding-left: 45px;
     
     
       
@@ -123,7 +123,7 @@ position: relative;
     margin-left: 20px;
     margin: auto;
     margin-top: -190px;
-    margin-left: 36.8%;
+    margin-left: 33.6%;
     opacity: 40%;;
     
 }
@@ -133,7 +133,7 @@ position: relative;
     margin-left: 20px;
     margin: auto;
     margin-top: -180px;
-    margin-right: 37.5%;
+    margin-right: 34%;
     max-width: 100%;
     width: 1em;
 }
