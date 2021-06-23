@@ -142,7 +142,9 @@ position: relative;
     
 }  
 
-
+#searchbox:checked {
+    box-shadow: 0px 1px 5px #c2c5c7;
+}
 #search-icon {
     display: block;
     margin-left: 20px;
