@@ -9,7 +9,7 @@
 body, html {
     margin:o;
     height: 100%;
-    background-color: purple;
+    background-color: white;
     padding: 0;
     display: flex;
     flex-direction: column;
